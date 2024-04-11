@@ -10,4 +10,4 @@ app.register_blueprint(weather_bp)
 
 #Don't need debug=True right now
 if __name__ == '__main__':
-    app.run(host='yoursystemip', port=8080)
+    app.run(host='0.0.0.0', port=8080)
