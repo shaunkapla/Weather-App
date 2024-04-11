@@ -150,6 +150,7 @@ Project Link: [https://github.com/shaunkapla/Weather-App](https://github.com/sha
 ## Acknowledgments
 
 * [React documentation](https://reactjs.org/)
+* [Python documentation](https://docs.python.org/3/)
 * [Img Shields](https://shields.io)
 * [README Template](https://github.com/othneildrew/Best-README-Template)
 
