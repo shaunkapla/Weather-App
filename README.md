@@ -62,6 +62,11 @@
 
 [![React][React.js]][React-url]
 
+[![Python][Python.py]][Python-url]
+
+[![Bash][Bash.sh]][Bash-url]
+
+
 <p>Will continue to add to this section</p>
 <!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
 
@@ -167,3 +172,7 @@ Project Link: [https://github.com/shaunkapla/Weather-App](https://github.com/sha
 [linkedin-url]: https://linkedin.com/in/shaunkapla
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[Python.py]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB
+[Python-url]: https://www.python.org/
+[Bash.sh]: https://img.shields.io/badge/-Bash-20232A?style=for-the-badge&logo=gnubash&logoColor=61DAFB
+[Bash-url]: https://www.gnu.org/software/bash/
