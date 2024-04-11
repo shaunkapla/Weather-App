@@ -69,7 +69,7 @@
 
 <!-- CURRENT BRANCH -->
 ## Current Branch
-Shaun Kapla (Creator) --> adding-api-endpoint-to-circles
+Shaun Kapla (Creator) --> main
 
 
 <!-- FUTURE PLANS -->
